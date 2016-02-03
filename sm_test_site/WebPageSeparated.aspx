@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
-        Welcome to Sam&#39;s Visual Studio Using Code Separation page<br />
+        Welcome to Sam&#39;s simple site!<br />
         <br />
         Enter Your Name : <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <br />
